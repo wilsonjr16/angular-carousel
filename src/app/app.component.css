@@ -1,0 +1,9 @@
+.owl-theme .owl-nav {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+}
+
+.item {
+    background: #f0f;
+}
